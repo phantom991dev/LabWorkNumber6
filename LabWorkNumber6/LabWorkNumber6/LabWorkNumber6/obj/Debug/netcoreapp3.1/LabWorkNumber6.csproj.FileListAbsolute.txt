@@ -1,0 +1,12 @@
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/obj/Debug/netcoreapp3.1/LabWorkNumber6.csprojAssemblyReference.cache
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/obj/Debug/netcoreapp3.1/LabWorkNumber6.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/obj/Debug/netcoreapp3.1/LabWorkNumber6.AssemblyInfo.cs
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/obj/Debug/netcoreapp3.1/LabWorkNumber6.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/bin/Debug/netcoreapp3.1/LabWorkNumber6.deps.json
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/bin/Debug/netcoreapp3.1/LabWorkNumber6.runtimeconfig.json
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/bin/Debug/netcoreapp3.1/LabWorkNumber6.runtimeconfig.dev.json
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/bin/Debug/netcoreapp3.1/LabWorkNumber6.dll
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/bin/Debug/netcoreapp3.1/LabWorkNumber6.pdb
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/obj/Debug/netcoreapp3.1/LabWorkNumber6.dll
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/obj/Debug/netcoreapp3.1/LabWorkNumber6.pdb
+/Users/oleg/Desktop/LabWorkNumber6/LabWorkNumber6/LabWorkNumber6/obj/Debug/netcoreapp3.1/LabWorkNumber6.genruntimeconfig.cache

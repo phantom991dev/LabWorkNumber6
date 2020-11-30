@@ -32,7 +32,7 @@ namespace LabWorkNumber6
             string str = "       **\n" +
                                   "   *         *\n" +
                                   " *              *\n" +
-                                  "*       ШАР      *\n" +
+                                  "*       Ball      *\n" +
                                   "*                *\n" +
                                   " *              *\n" +
                                   "   *          *\n" +
